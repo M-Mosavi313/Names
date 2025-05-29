@@ -1,6 +1,12 @@
+body {background: linear-gradient( #2ca514);
+
+}
+
+
+
 h1 { text-align: center;
 
-background-color: black;
+background-color: rgb(34, 25, 25);
 
 color: aqua;
 }
